@@ -1,2 +1,2 @@
 # Web_application
-streamlit
+株価可視化アプリ　テスト用
